@@ -53,6 +53,4 @@ desktop.ini
 *.temp
 convert_to_pdf.py
 
-# Large model files (>100MB) - regenerate using: python new.py
-model/random_forest_model.pkl
-model/xgboost_model.pkl
+# Model files are tracked via Git LFS
