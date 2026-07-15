@@ -1,0 +1,52 @@
+================================================================================
+GLOBAL YOUTUBE STATISTICS - EDA REPORT
+================================================================================
+
+Generated on: 2026-07-16 01:47:31
+
+Dataset: Global YouTube Statistics.csv
+Total Records: 995
+Total Features: 28
+
+--------------------------------------------------------------------------------
+KEY INSIGHTS AND PATTERNS
+--------------------------------------------------------------------------------
+
+1. OVERALL YOUTUBE LANDSCAPE
+   • Total YouTubers analyzed: 995
+   • Average subscribers: 22,982,412
+   • Median subscribers: 17,700,000
+   • Top channel: T-Series with 245,000,000 subscribers
+
+2. CATEGORY ANALYSIS
+   • Total categories: 18
+   • Most popular category: Entertainment (241 channels)
+   • Highest avg subscribers: Shows
+
+3. GEOGRAPHIC DISTRIBUTION
+   • Countries represented: 49
+   • Top country: United States (313 channels)
+   • Top 5 countries:
+     1. United States: 313 channels
+     2. India: 168 channels
+     3. Brazil: 62 channels
+     4. United Kingdom: 43 channels
+     5. Mexico: 33 channels
+
+4. CONTENT PRODUCTION
+   • Average uploads: 9,187
+   • Median uploads: 729
+   • Max uploads: 301,308
+   • Most prolific channel: ABP NEWS
+
+5. KEY CORRELATIONS
+   • Subscribers vs Video Views correlation: 0.7510
+     → Strong positive correlation detected
+
+6. DATA QUALITY SUMMARY
+   • Total missing values: 1,616
+   • Duplicate records: 0
+
+================================================================================
+END OF REPORT
+================================================================================
