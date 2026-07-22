@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Myoglobin_3D_animation.gif" alt="Protein Spinning" width="250"/>
+
 # 🧬 ProteinForge
 
 **AI-Powered Protein Structure Prediction & Analysis Dashboard**
@@ -53,6 +55,10 @@
 ---
 
 ## 1. Project Overview
+
+<div align="center">
+  <img src="https://i.gifer.com/Xqg8.gif" alt="DNA Animation" width="150" />
+</div>
 
 **ProteinForge** is an interactive, browser-based dashboard for AI-driven protein structure prediction. It is designed as a complete end-to-end bioinformatics pipeline — from raw amino acid sequence input all the way to 3D interactive visualization, quantitative analysis, batch processing, and downloadable results.
 
