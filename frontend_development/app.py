@@ -9,6 +9,10 @@ from stmol import showmol
 import pandas as pd
 import plotly.graph_objects as go
 import plotly.express as px
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'backend_integration')))
+
 from utils import (
     validate_sequence, parse_fasta, fetch_uniprot_sequence,
     predict_structure_esmfold, fetch_alphafold_structure,
