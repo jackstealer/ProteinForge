@@ -111,6 +111,10 @@
 
 ## 3. Project Architecture
 
+<div align="center">
+  <img src="https://i.pinimg.com/originals/18/d9/b3/18d9b32e6503c80ff6289bfab36380c5.gif" alt="Neural Network Animation" width="300" />
+</div>
+
 ProteinForge follows a **single-file web app architecture** with a clean separation of concerns:
 
 ```
@@ -1326,6 +1330,10 @@ python run_checks.py
     UniProt Consortium (2023). *UniProt: the Universal Protein Knowledgebase in 2023.* Nucleic Acids Research, 51(D1), D523-D531.
 
 ---
+
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/PDB_1n7s_animation.gif" alt="Molecular Animation" width="250" />
+</div>
 
 *Documentation last updated: July 2026*  
 *ProteinForge v1.0 | 100% Open Source | Zero Hard-Coded Data*
