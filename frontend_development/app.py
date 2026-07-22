@@ -608,7 +608,7 @@ def show_home():
     
     st.markdown("<br>", unsafe_allow_html=True)
     
-    from utils import get_random_sequences_from_dataset, get_dataset_stats
+    from backend_integration.utils import get_random_sequences_from_dataset, get_dataset_stats
     
     col1, col2 = st.columns([2, 1])
     
@@ -786,7 +786,7 @@ def show_prediction():
                     st.error(f"❌ Could not fetch {uniprot_id}")
     
     elif input_method == "🎲 Random from Dataset":
-        from utils import get_random_sequences_from_dataset
+        from backend_integration.utils import get_random_sequences_from_dataset
         
         if st.button("🎲 Load Random Sequence", use_container_width=True):
             with st.spinner("Loading from dataset..."):
